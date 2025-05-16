@@ -20,10 +20,7 @@
 			"extensions": [
                 "GitHub.copilot",
                 "GitHub.copilot-chat",
-                "GitHub.copilot-terminal",
-                "ms-dotnettools.csharp",
-                "ms-vscode.powershell",
-                "editorconfig.editorconfig"
+                "GitHub.copilot-terminal"
 			]
 		}
 	}
