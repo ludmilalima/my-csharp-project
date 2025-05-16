@@ -23,3 +23,6 @@ code /workspaces/my-csharp-project/tempApp/Program.cs
 
 # Change to the app directory and run
 cd "$APPDIR"
+
+# Execute the C# program
+dotnet run

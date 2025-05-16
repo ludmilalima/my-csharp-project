@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Mono Debug",
-            "type": "mono",
+            "name": ".NET Debug",
+            "type": "coreclr",
             "request": "launch",
-            "program": "/workspaces/my-csharp-project/tempApp/bin/Debug/net8.0/tempApp.dll",
+            "program": "tempApp/bin/Debug/net8.0/tempApp.dll"
         }
     ]
 }

@@ -10,5 +10,4 @@
 ```bash
     chmod +x run-dotnet-cs.sh
     ./run-dotnet-cs.sh /workspaces/my-csharp-project/SquaresOfASortedArray/soasa.cs
-    dotnet run
 ```
