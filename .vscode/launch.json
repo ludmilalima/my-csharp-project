@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Mono Debug",
+            "type": "mono",
+            "request": "launch",
+            "program": "${file}"
+        }
+    ]
+}
