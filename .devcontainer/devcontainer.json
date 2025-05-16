@@ -21,7 +21,8 @@
                 "GitHub.copilot",
                 "GitHub.copilot-chat",
                 "GitHub.copilot-terminal",
-				"ms-vscode.mono-debug"
+				"ms-vscode.mono-debug",
+				"ms-dotnettools.csdevkit"
 			]
 		}
 	}
