@@ -20,7 +20,8 @@
 			"extensions": [
                 "GitHub.copilot",
                 "GitHub.copilot-chat",
-                "GitHub.copilot-terminal"
+                "GitHub.copilot-terminal",
+				"ms-vscode.mono-debug"
 			]
 		}
 	}
