@@ -3,8 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-# Temporary debbug files
-tempApp/
+#Include temporary files
+tempApp/tempApp/obj/
+tempApp/Program.cs
+tempApp/tempApp.csproj
+tempApp/bin
 
 # User-specific files
 *.rsuser
