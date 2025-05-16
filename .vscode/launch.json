@@ -5,7 +5,7 @@
             "name": "Mono Debug",
             "type": "mono",
             "request": "launch",
-            "program": "${file}"
+            "program": "/workspaces/my-csharp-project/tempApp/bin/Debug/net8.0/tempApp.dll",
         }
     ]
 }
